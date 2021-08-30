@@ -1,4 +1,4 @@
-def check_even(lst):
+def get_even(lst):
   final_lst = []
   for l in lst:
     if l%2 == 0:
